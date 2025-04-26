@@ -4,9 +4,11 @@
 
 ## AIM:
 To create a two screens , first screen will take name, age, contact number and email id from user. After click on submit button, second screen will open and it should display result using Explicit Intents.
+
 ## EQUIPMENTS REQUIRED:
 Latest Version Android Studio
 ## ALGORITHM:
+
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
 Step 2: Then type the Application name as “workshop″ and click Next.
@@ -20,11 +22,12 @@ Step 5: Design layout in activity_main.xml.
 Step 6: Get contacts details and Display details give in MainActivity file.
 
 Step 7: Save and run the application.
+
 ## PROGRAM:
 ```
 Program to print the text “ExplicitIntent”.
-Developed by: KARTHIKA E
-Registeration Number : 212222040072
+Developed by: BHUVANESHWARI S
+Registeration Number : 212222220008
 ```
 ## MainActivity.java:
 ```
@@ -256,8 +259,10 @@ public class MainActivity2 extends AppCompatActivity {
 </manifest>
 ```
 ## Output
-![Screenshot 2024-10-26 141209](https://github.com/user-attachments/assets/fda21b90-d7b9-4602-a884-1ae14dfdfacb)
-![Screenshot 2024-10-26 141330](https://github.com/user-attachments/assets/71e3ed5d-e8f6-4b72-b0e0-ec864cd074a2)
+![image](https://github.com/user-attachments/assets/dc39956e-599f-4a67-a336-c675ef120808)
+![image](https://github.com/user-attachments/assets/af0d80d9-7cc6-4220-9814-c15a4f5c1674)
+
+
 
 ## Result
 Thus a Android Application create a Explicit Intents using Android Studio is developed and executed successfully.
